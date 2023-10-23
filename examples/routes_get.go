@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"time"
 	"strings"
-	"go-konnect-api/konnect"
+
+	"github.com/igor-feoktistov/go-konnect-api/konnect"
 )
 
 func main() {
